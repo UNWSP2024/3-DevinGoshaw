@@ -4,6 +4,9 @@
 # Also tax is 7%. 
 # Write a program the inputs the type of hot dog wanted and optional toppings.  
 # The program then displays the hot dog cost, tax and total cost. 
+#programmer: devin Goshaw 
+# Date: 9/19/25
+# title: hot dog program
 hotDog = 3.50
 chiliDog = 4.50
 cheese = 0.50
