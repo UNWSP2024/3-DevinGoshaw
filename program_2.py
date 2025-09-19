@@ -11,11 +11,11 @@ def categorize_age(age):
     # WRITE YOUR CODE HERE
     if age<=1:
         print("he or she is an infant")
-    if age>1 and age<13:
+    elif age<13:
         print("he or she is a child")
-    if age>=13 and age<20:
+    elif age<20:
         print("he or she is a teenager")
-    if age>=20:
+    elif age>=20:
         print ("he or she is an adult")
     ######################1
    
