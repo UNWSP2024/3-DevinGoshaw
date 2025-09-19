@@ -6,7 +6,6 @@
 # If the person is at least 20 year old, it should display "adult".
 
 def categorize_age(age):
-    ageCategory = "TBD"
     ######################
     # WRITE YOUR CODE HERE
     if age<=1:
@@ -19,8 +18,6 @@ def categorize_age(age):
         print ("he or she is an adult")
     ######################1
    
-    
-    return ageCategory
 
 
 #### This piece of the code has been done for you,
